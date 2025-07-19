@@ -7,9 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<body>
+
 <h1>Invalid user credentials</h1>
 <a href="login.jsp">Try Again</a>
-</body>
 </body>
 </html>
