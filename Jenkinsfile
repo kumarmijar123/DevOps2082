@@ -37,7 +37,7 @@ pipeline {
 
     post {
         always {
-            echo 'Pipeline complete. Check http://localhost:8080 or container logs if needed.'
+            echo 'Pipeline complete. Check http://localhost:8089.'
         }
     }
 }
