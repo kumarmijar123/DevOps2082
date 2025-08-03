@@ -1,3 +1,5 @@
+Delta compression using up to 2 threads
+Compressing objects: 100% (3/3), done.
 pipeline {
     agent any
 
@@ -10,7 +12,7 @@ pipeline {
             }
         }
 
-     
+
 
 
         stage('Build Docker Image') {
@@ -41,4 +43,5 @@ pipeline {
         }
     }
 }
+
 
